@@ -1,0 +1,6 @@
+/continuo_transiente
+/dolfin_transiente
+/continuo
+/dolfin_adjoint
+/dolfin_transiente_full
+/continuo_transiente_full*
